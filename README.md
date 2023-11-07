@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=vigneshsubbaram&theme=darkhub&title=Joined2020,Issues,Commits,PullRequest,Repositories,Reviews" alt="vigneshsubbaram" /></a></p>
 <hr>
 
-- 🔭 I’m currently working on [boardfarm](https://github.com/lgirdk/boardfarm)
+- 🔭 I’m currently working on [boardfarm](https://github.com/lgirdk/boardfarm) and [raikou-factory](https://github.com/lgirdk/raikou-factory)
 
 - 🌱 I’m currently learning **Python, docker**
 
